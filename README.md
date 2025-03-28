@@ -62,5 +62,9 @@ This React-based **User Management System** integrates with the [Reqres API](htt
   DELETE https://reqres.in/api/users/{id}
   ```
 
+  ## 🎯 Bonus Features (Extra Points)
+- 🌐 **Hosted Online:** [Live Demo](https://lucky-griffin-b1309f.netlify.app/)
+- 🚀 **React Router Implementation**
+
 
 **💡 Contributions and feedback are welcome!** 🚀
